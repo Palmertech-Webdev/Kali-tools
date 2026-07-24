@@ -70,7 +70,7 @@ For users who just want to get running fast:
 
 ```powershell
 # 1 — Clone the repo
-git clone https://github.com/zy538324/Kali-tools.git
+git clone https://github.com/Palmertech-Webdev/Kali-tools.git
 cd Kali-tools
 
 # 2 — Run the bootstrap script (elevated prompt)
@@ -110,7 +110,7 @@ python main.py
 
 ```powershell
 cd C:\Users\<YourName>\Documents\GitHub
-git clone https://github.com/zy538324/Kali-tools.git
+git clone https://github.com/Palmertech-Webdev/Kali-tools.git
 cd Kali-tools
 ```
 
